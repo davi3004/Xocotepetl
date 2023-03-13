@@ -4,9 +4,9 @@ Actividad de aprendizaje 14. Desarrolla un proyecto que administre una base de d
 ---
 
 ##  Integrantes: 
-David Nájera Escobar    
-Fabiola Ramírez Negrete
-Sergio Eduardo Islas Romero     
++ David Nájera Escobar    
++ Fabiola Ramírez Negrete
++ Sergio Eduardo Islas Romero     
 
 ---
 
