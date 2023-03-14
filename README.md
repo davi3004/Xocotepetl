@@ -110,7 +110,7 @@ LOCK TABLES `ventas` WRITE;
 
 UNLOCK TABLES;
 ```
-Puede descargar la base de datos a través del siguiente enlace, dando [click aquí](https://github.com/davi3004/Xocotepetl/blob/main/Base%20de%20datos%20Xocotepetl.sql).
+Puede descargar la base de datos a través del siguiente enlace, dando [click aquí](https://github.com/davi3004/Xocotepetl/blob/main/chocolateria.sql).
 
 ---
 
