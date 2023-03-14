@@ -114,3 +114,15 @@ Para usar el software es necesario modificar la siguiente parte del código dent
 ![Clave](https://github.com/davi3004/Xocotepetl/blob/main/imgs/%C3%ADndice.jpeg)
 
 El apartado que se debe cambiar es donde dice `INSERTE SU LLAVE AQUÍ`.
+
+El software además puede ser ejecutado descargando y configurando todo, para esto recomiendo usar.
+
++ MySQL
++ Apache NetBeans IDE 17
++ Java: 19.0.2; Java HotSpot(TM) 64-Bit Server VM 19.0.2+7-44
+
+A continuación se muestra un ejemplo del uso del sistema, este sistema puede ser descargado y ejecutado como se mencionó anteriormente. 
+
+### Capturas
+
+
