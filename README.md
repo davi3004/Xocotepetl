@@ -58,7 +58,7 @@ Esta tabla tendrá el las ventas al momento, y sus datos, algunos datos pueden v
 ## Código de base de datos
 
 Ahora bien, el código fuente de la base de datos es el siguiente.
-Base de datos. 
+
 ```
 DROP TABLE IF EXISTS Chocolateria;
 
@@ -94,5 +94,5 @@ LOCK TABLES `ventas` WRITE;
 
 UNLOCK TABLES;
 ```
-
+Puede descargar la base de datos a través del siguiente enlace, dando [click aquí](https://github.com/davi3004/Xocotepetl/blob/main/Base%20de%20datos%20Xocotepetl.sql).
 
