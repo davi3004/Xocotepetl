@@ -12,7 +12,7 @@ Actividad de aprendizaje 14. Desarrolla un proyecto que administre una base de d
 
 ## Nombre del sistema
 
-XocoInventory
+Xocotepetl
 
 ---
 
@@ -100,8 +100,8 @@ Puede descargar la base de datos a través del siguiente enlace, dando [click aq
 
 ## Limitaciones
 
-Algunas de las limitaciones son las que suenta el software son las siguientes:
-+ Dificultad para almacenar el stock, debido a que son bebidas preparadas, se hacen al momento, es decir mo hay posibilidad de hacer el conteo sin los ingredientes.
+Algunas de las limitaciones son las que cuenta el software son las siguientes:
++ Dificultad para almacenar el stock, debido a que son bebidas preparadas, se hacen al momento, es decir no hay posibilidad de hacer el conteo sin los ingredientes.
 + Guardar ventas anteriores, debido a que la base de datos "ventas" se usa para anotar los productos vendidos entonces se borra cada que se sale del programa o se 
 imprime el ticket
 
@@ -121,7 +121,7 @@ El software además puede ser ejecutado descargando y configurando todo, para es
 + Apache NetBeans IDE 17
 + Java: 19.0.2; Java HotSpot(TM) 64-Bit Server VM 19.0.2+7-44
 
-A continuación se muestra un ejemplo del uso del sistema, este sistema puede ser descargado y ejecutado como se mencionó anteriormente. 
+A continuación, se muestra un ejemplo del uso del sistema, este sistema puede ser descargado y ejecutado como se mencionó anteriormente.
 
 ### Capturas
 
