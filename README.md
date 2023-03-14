@@ -15,4 +15,4 @@ El dueño de una chocolatería no cuenta con ningún tipo de base de datos para 
 Definición de requerimientos
 La resolución del problema arroja como parámetros de requerimientos que el sistema cumpla con las funciones de sumar y restar los insumos que son añadidos y utilizados del inventario. De igual manera el sistema debe registrar cuando se ha vendido marcando su precio correcto.
 
-[Menu](https://github.com/davi3004/Xocotepetl/blob/main/imgs/menu1.jpg)
+![Menu](https://github.com/davi3004/Xocotepetl/blob/main/imgs/menu1.jpg)
