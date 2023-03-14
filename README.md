@@ -24,7 +24,7 @@ El dueño de una chocolatería llamada Xocotepetl tiene dificultades para manten
 
 ## Solución propuesta
 
-Se propone desarrollar un sistema de inventario automatizado llamado XocoInventory, que permita al dueño de la chocolatería llevar un registro preciso y eficiente del inventario de su negocio. El sistema permitirá agregar, editar y eliminar productos del inventario, y también permitirá calcular el costo total de los productos que se van a llevar y generar un ticket de compra para el cliente.
+Se propone desarrollar un sistema de inventario automatizado llamado Xocotepetl, que permita al dueño de la chocolatería llevar un registro preciso y eficiente del inventario de su negocio. El sistema permitirá agregar, editar y eliminar productos del inventario, y también permitirá calcular el costo total de los productos que se van a llevar y generar un ticket de compra para el cliente.
 
 El menú que se tomará en cuenta para la creación de la base de datos será el siguiente
 
@@ -35,5 +35,12 @@ El menú que se tomará en cuenta para la creación de la base de datos será el
 
 ## Diagrama de la base de datos
 
-La base de datos para el sistema XocoInventory tendrá las siguientes tablas:
+El diagrama de la base de datos será el siguiente: 
+
+![Diagrama de la base de datos](https://github.com/davi3004/Xocotepetl/blob/main/imgs/diagrama%20de%20base%20de%20datos.jpg)
+
+Las tablas que tendrá serán las siguientes:
+
+
+
 
