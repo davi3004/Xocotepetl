@@ -12,7 +12,7 @@ public class Conexion_interac {
 public static final String DRIVER ="com.mysql.jdbc.Driver";    
 public static final String URL = "jdbc:mysql://localhost:3306/chocolateria";
 public static final String USER = "root";
-public static final String CLAVE = "D3PA$v&q34z5n";
+public static final String CLAVE = "";
   
  public static Connection getConexion(){
             Connection con = null;
