@@ -106,6 +106,11 @@ Algunas de las limitaciones son las que cuenta el software son las siguientes:
 imprime el ticket
 
 ---
+## Errores
+
+El software tiene un error donde está la caja de cobro, al añadir o eliminar un objeto de la tabla salen muchos errores, pero esto no afecta al funcionamiento del sistema. 
+
+---
 
 ## Software
 
