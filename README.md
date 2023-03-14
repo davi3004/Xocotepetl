@@ -134,4 +134,7 @@ A continuación, se muestra un ejemplo del uso del sistema, este sistema puede s
 ![Pruebas](https://github.com/davi3004/Xocotepetl/blob/main/imgs/2023-03-13%2019-53-43.gif)
 
 Si desea ver las capturas estáticas puede hacerlo dando click al siguiente enlace.
+[Capturas](https://github.com/davi3004/Xocotepetl/blob/main/imgs/Capturas.pdf)
 
+Si desea observar la tarea en el formato solicitado, es decir `.docx` puede descargar el pdf que se encuentra en el siguient enlace.
+[Tarea](https://github.com/davi3004/Xocotepetl/blob/main/imgs/Actividad%20de%20aprendizaje%2014%20Desarrolla%20un%20proyecto%20que%20administre%20una%20base%20de%20datos.docx)
