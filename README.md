@@ -10,10 +10,30 @@ Actividad de aprendizaje 14. Desarrolla un proyecto que administre una base de d
 
 ---
 
-## Identificación del problema
-El dueño de una chocolatería no cuenta con ningún tipo de base de datos para su negocio y él quiere mantener un registro de las enchocolatados y bebidas que vende y a su vez un sistema de inventario para administrar de manera más sencilla y eficaz los insumos que debe ir a comprar a la brevedad y de los que aún tiene una buena cantidad almacenada.                                                                                                 
-Definición de requerimientos
-La resolución del problema arroja como parámetros de requerimientos que el sistema cumpla con las funciones de sumar y restar los insumos que son añadidos y utilizados del inventario. De igual manera el sistema debe registrar cuando se ha vendido marcando su precio correcto.
+## Nombre del sistema
+
+XocoInventory
+
+---
+
+## Descripción breve de la problemática
+
+El dueño de una chocolatería llamada Xocotepetl tiene dificultades para mantener el control del inventario de su negocio. Actualmente, lleva el registro de los productos y el inventario de forma manual en una hoja de cálculo, lo que hace que el proceso sea propenso a errores y poco eficiente.
+
+---
+
+## Solución propuesta
+
+Se propone desarrollar un sistema de inventario automatizado llamado XocoInventory, que permita al dueño de la chocolatería llevar un registro preciso y eficiente del inventario de su negocio. El sistema permitirá agregar, editar y eliminar productos del inventario, y también permitirá calcular el costo total de los productos que se van a llevar y generar un ticket de compra para el cliente.
+
+El menú que se tomará en cuenta para la creación de la base de datos será el siguiente
 
 ![Menu](https://github.com/davi3004/Xocotepetl/blob/main/imgs/menu1.jpg)
 ![Menu](https://github.com/davi3004/Xocotepetl/blob/main/imgs/menu%201.jpg)
+
+---
+
+## Diagrama de la base de datos
+
+La base de datos para el sistema XocoInventory tendrá las siguientes tablas:
+
