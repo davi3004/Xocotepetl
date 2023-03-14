@@ -32,6 +32,23 @@ El menú que se tomará en cuenta para la creación de la base de datos será el
 
 ---
 
+## Diseño del sistema
+
+Ya una vez que tenemos lo anterior en cuenta, podemos pensar en una posible solución para el problema. Para el sistema a ejecutar, podríamos considerar las siguientes funcionalidades:
+
++ Registro de ventas: el sistema debería permitir registrar las ventas de enchocolatados y bebidas, retornando un total.
++ Consulta de inventario: el sistema debería consultar en cualquier momento el inventario.
+
+En cuanto a los requerimientos específicos, podemos considerar lo siguiente:
+
++ Registrar ventas con precio correcto: el sistema debería permitir ingresar el precio de venta de cada producto al momento de registrar la venta, para que el sistema pueda calcular el total de ingresos generados por esa venta.
+
+La experiencia de usuario se podría mostrar de la siguiente manera.
+
+![UX](https://github.com/davi3004/Xocotepetl/blob/main/imgs/ux.png)
+
+---
+
 ## Diagrama de la base de datos
 
 El diagrama de la base de datos será el siguiente: 
