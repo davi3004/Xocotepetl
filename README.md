@@ -28,8 +28,7 @@ Se propone desarrollar un sistema de inventario automatizado llamado Xocotepetl,
 
 El menú que se tomará en cuenta para la creación de la base de datos será el siguiente
 
-![Menu](https://github.com/davi3004/Xocotepetl/blob/main/imgs/menu1.jpg)
-![Menu](https://github.com/davi3004/Xocotepetl/blob/main/imgs/menu%201.jpg)
+![Menú](https://github.com/davi3004/Xocotepetl/blob/main/imgs/Men%C3%BA.jpg)
 
 ---
 
@@ -132,4 +131,7 @@ A continuación, se muestra un ejemplo del uso del sistema, este sistema puede s
 
 ### Capturas
 
+![Pruebas](https://github.com/davi3004/Xocotepetl/blob/main/imgs/2023-03-13%2019-53-43.gif)
+
+Si desea ver las capturas estáticas puede hacerlo dando click al siguiente enlace.
 
