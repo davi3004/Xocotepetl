@@ -96,3 +96,18 @@ UNLOCK TABLES;
 ```
 Puede descargar la base de datos a través del siguiente enlace, dando [click aquí](https://github.com/davi3004/Xocotepetl/blob/main/Base%20de%20datos%20Xocotepetl.sql).
 
+---
+
+## Limitaciones
+
+Algunas de las limitaciones son las que suenta el software son las siguientes:
++ Dificultad para almacenar el stock, debido a que son bebidas preparadas, se hacen al momento, es decir mo hay posibilidad de hacer el conteo sin los ingredientes.
++ Guardar ventas anteriores, debido a que la base de datos "ventas" se usa para anotar los productos vendidos entonces se borra cada que se sale del programa o se 
+imprime el ticket
+
+---
+
+## Software
+
+Para usar el software es necesario modificar la siguiente parte del código dentro de la clase `Conexion_interac`.
+
