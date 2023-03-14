@@ -109,6 +109,8 @@ imprime el ticket
 
 ## Software
 
+La clase principal se llama `Xocotepetl.java`
+
 Para usar el software es necesario modificar la siguiente parte del código dentro de la clase `Conexion_interac`.
 
 ![Clave](https://github.com/davi3004/Xocotepetl/blob/main/imgs/%C3%ADndice.jpeg)
