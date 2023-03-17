@@ -19,8 +19,8 @@ Mejoras de la versión 2
 + Se añadió un carrito
 + Se añadió un historial de compras
 + Se mejoró la seguridad de algunas peticiones hacia MySQL evitando ataques tipo inyección de SQL.
-+ Se añadió la imagen del local, haciendo mas ameno el espacio de trabajo.
-+ Se expandió la base de datos haciéndola mas eficiente.
++ Se añadió la imagen del local, haciendo más ameno el espacio de trabajo.
++ Se expandió la base de datos haciéndola más eficiente.
 
 ---
 
