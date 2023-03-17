@@ -155,3 +155,6 @@ Si desea ver las capturas estáticas puede hacerlo dando click al siguiente enla
 
 Si desea observar la tarea en el formato solicitado, es decir `.docx` puede descargar el pdf que se encuentra en el siguient enlace.
 [Tarea](https://github.com/davi3004/Xocotepetl/blob/main/imgs/Actividad%20de%20aprendizaje%2014%20Desarrolla%20un%20proyecto%20que%20administre%20una%20base%20de%20datos.docx)
+
+
+#[V2.0]()
