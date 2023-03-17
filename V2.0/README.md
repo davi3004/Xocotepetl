@@ -52,7 +52,7 @@ La experiencia de usuario se podría mostrar de la siguiente manera.
 
 El diagrama de la base de datos será el siguiente: 
 
-![Diagrama de la base de datos]()
+![Diagrama de la base de datos](https://github.com/davi3004/Xocotepetl/blob/main/imgs/diagrama.png)
 
 Las tablas que tendrá serán las siguientes:
 
@@ -61,24 +61,26 @@ Las tablas que tendrá serán las siguientes:
 Esta tabla tendrá el inventario, y sus datos, algunos datos pueden variar de acuerdo con la tabla debido a las pruebas realizadas.
 
 ![Tabla chocolateria](https://github.com/davi3004/Xocotepetl/blob/main/imgs/chcolater%C3%ADa%20tabla.jpg)
-
-### Tabla ventas
-
-Esta tabla tendrá el las ventas al momento, y sus datos, algunos datos pueden variar de acuerdo con la tabla debido a las pruebas realizadas.
-
-![Tabla ventas](https://github.com/davi3004/Xocotepetl/blob/main/imgs/ventas%20tabla.jpg)
-
-## Tabla chocolateria
-Esta tabla tendrá el inventario, y sus datos, algunos datos pueden variar de acuerdo con la tabla debido a las pruebas realizadas.
  
 ## Tabla ventas
+
 Esta tabla tendrá las ventas al momento, y sus datos, algunos datos pueden variar de acuerdo con la tabla debido a las pruebas realizadas.
- 
+
+[Tabla ventas](https://github.com/davi3004/Xocotepetl/blob/main/imgs/tabla%20ventas.png)
+
 ## Tabla ticket
+
 Esta tabla tendrá las ventas al momento, y sus datos, algunos datos pueden variar de acuerdo con la tabla debido a las pruebas realizadas, esta es la tabla que se muestra al seleccionar carrito en el ticket.
 
+[Tabla ticket](https://github.com/davi3004/Xocotepetl/blob/main/imgs/tabla%20ticket.png)
+
 ## Tabla historial
+
 La tabla historial cuenta con todas las compras realizadas desde el momento en el que se implementó el sistema.
+
+[Tabla historial](https://github.com/davi3004/Xocotepetl/blob/main/imgs/tabla%20historial..png)
+
+Esta tabla cuenta con datos debido a las pruebas realizadas.
 
 ---
 
@@ -87,6 +89,10 @@ La tabla historial cuenta con todas las compras realizadas desde el momento en e
 Ahora bien, el código fuente de la base de datos es el siguiente.
 
 ```
+
+/*
+Tabla principal
+*/
 DROP TABLE IF EXISTS Chocolateria;
 
 CREATE TABLE Chocolateria (
@@ -108,6 +114,9 @@ INSERT INTO `Chocolateria` (ID_Producto, Nombre, Descripcion, Precio) VALUES (24
 
 UNLOCK TABLES;
 
+/*
+Tabla mientras se compra
+*/
 DROP TABLE IF EXISTS Ventas;
 
 CREATE TABLE Ventas (
@@ -120,8 +129,45 @@ CREATE TABLE Ventas (
 LOCK TABLES `ventas` WRITE;
 
 UNLOCK TABLES;
+
+
+/*
+Tabla ticket
+*/
+DROP TABLE IF EXISTS ticket;
+
+CREATE TABLE ticket (
+  ID_Transaccion INT,
+  Nombre VARCHAR(50),
+  Precio DECIMAL(6,2),
+  Cantidad INT,
+  Semitotal DECIMAL(6,2)
+);
+
+LOCK TABLES `ticket` WRITE;
+
+UNLOCK TABLES;
+
+/*
+Tabla de historial de ventas
+*/
+DROP TABLE IF EXISTS historial;
+
+CREATE TABLE historial (
+  ID_Transaccion INT,
+  Nombre VARCHAR(50),
+  Precio DECIMAL(6,2),
+  Cantidad INT,
+  Semitotal DECIMAL(6,2)
+);
+
+LOCK TABLES `historial` WRITE;
+
+UNLOCK TABLES;
+
+
 ```
-Puede descargar la base de datos a través del siguiente enlace, dando [click aquí](https://github.com/davi3004/Xocotepetl/blob/main/chocolateria.sql).
+Puede descargar la base de datos a través del siguiente enlace, dando [click aquí](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/chocolateria.sql).
 
 ---
 
