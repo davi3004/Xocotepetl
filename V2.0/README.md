@@ -15,6 +15,15 @@ Xocotepetl
 
 ---
 
+Mejoras de la versión 2
++ Se añadió un carrito
++ Se añadió un historial de compras
++ Se mejoró la seguridad de algunas peticiones hacia MySQL evitando ataques tipo MySQL inyection.
++ Se añadió la imagen del local.
++ Se expandió la base de datos haciéndola mas eficiente.
+
+---
+
 ## Descripción breve de la problemática
 
 El dueño de una chocolatería llamada Xocotepetl tiene dificultades para mantener el control del inventario de su negocio. Actualmente, lleva el registro de los productos y el inventario de forma manual en una hoja de cálculo, lo que hace que el proceso sea propenso a errores y poco eficiente. La versión dos ahora cuenta con la posibilidad de visualizar que es lo que se está llevando la persona, así como un historial de todas las compras que se han hecho desde el comienzo del sistema.
@@ -66,19 +75,19 @@ Esta tabla tendrá el inventario, y sus datos, algunos datos pueden variar de ac
 
 Esta tabla tendrá las ventas al momento, y sus datos, algunos datos pueden variar de acuerdo con la tabla debido a las pruebas realizadas.
 
-[Tabla ventas](https://github.com/davi3004/Xocotepetl/blob/main/imgs/tabla%20ventas.png)
+![Tabla ventas](https://github.com/davi3004/Xocotepetl/blob/main/imgs/tabla%20ventas.png)
 
 ## Tabla ticket
 
 Esta tabla tendrá las ventas al momento, y sus datos, algunos datos pueden variar de acuerdo con la tabla debido a las pruebas realizadas, esta es la tabla que se muestra al seleccionar carrito en el ticket.
 
-[Tabla ticket](https://github.com/davi3004/Xocotepetl/blob/main/imgs/tabla%20ticket.png)
+![Tabla ticket](https://github.com/davi3004/Xocotepetl/blob/main/imgs/tabla%20ticket.png)
 
 ## Tabla historial
 
 La tabla historial cuenta con todas las compras realizadas desde el momento en el que se implementó el sistema.
 
-[Tabla historial](https://github.com/davi3004/Xocotepetl/blob/main/imgs/tabla%20historial..png)
+![Tabla historial](https://github.com/davi3004/Xocotepetl/blob/main/imgs/tabla%20historial..png)
 
 Esta tabla cuenta con datos debido a las pruebas realizadas.
 
@@ -175,8 +184,8 @@ Puede descargar la base de datos a través del siguiente enlace, dando [click aq
 
 Algunas de las limitaciones son las que cuenta el software son las siguientes:
 + Dificultad para almacenar el stock, debido a que son bebidas preparadas, se hacen al momento, es decir no hay posibilidad de hacer el conteo sin los ingredientes.
-+ Guardar ventas anteriores, debido a que la base de datos "ventas" se usa para anotar los productos vendidos entonces se borra cada que se sale del programa o se 
-imprime el ticket
++ Dificultad para separar el historial de compras ya sea por compras o por fecha.
+
 
 ---
 ## Errores
@@ -205,10 +214,6 @@ A continuación, se muestra un ejemplo del uso del sistema, este sistema puede s
 
 ### Capturas
 
-![Pruebas](https://github.com/davi3004/Xocotepetl/blob/main/imgs/2023-03-13%2019-53-43.gif)
 
-Si desea ver las capturas estáticas puede hacerlo dando click al siguiente enlace.
-[Capturas](https://github.com/davi3004/Xocotepetl/blob/main/imgs/Capturas.pdf)
 
-Si desea observar la tarea en el formato solicitado, es decir `.docx` puede descargar el pdf que se encuentra en el siguient enlace.
-[Tarea](https://github.com/davi3004/Xocotepetl/blob/main/imgs/Actividad%20de%20aprendizaje%2014%20Desarrolla%20un%20proyecto%20que%20administre%20una%20base%20de%20datos.docx)
+
