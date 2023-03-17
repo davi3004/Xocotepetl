@@ -214,6 +214,20 @@ A continuación, se muestra un ejemplo del uso del sistema, este sistema puede s
 
 ### Capturas
 
+![Captura 1](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Capturas/1.png)
+![Captura 2](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Capturas/2.png)
+![Captura 3](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Capturas/3.png)
+![Captura 4](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Capturas/4.png)
+![Captura 5](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Capturas/5.png)
+![Captura 6](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Capturas/6.png)
+![Captura 7](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Capturas/7.png)
+![Captura 8](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Capturas/8.png)
+![Captura 9](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Capturas/9.png)
+![Captura 10](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Capturas/10.png)
+![Captura 11](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Capturas/11.png)
+![Captura 12](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Capturas/12.png)
+
+
 
 
 
