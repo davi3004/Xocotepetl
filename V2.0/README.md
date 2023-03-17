@@ -18,7 +18,7 @@ Xocotepetl
 Mejoras de la versión 2
 + Se añadió un carrito
 + Se añadió un historial de compras
-+ Se mejoró la seguridad de algunas peticiones hacia MySQL evitando ataques tipo Minyección de SQL.
++ Se mejoró la seguridad de algunas peticiones hacia MySQL evitando ataques tipo inyección de SQL.
 + Se añadió la imagen del local, haciendo mas ameno el espacio de trabajo.
 + Se expandió la base de datos haciéndola mas eficiente.
 
@@ -46,14 +46,12 @@ Ya una vez que tenemos lo anterior en cuenta, podemos pensar en una posible solu
 
 + Registro de ventas: el sistema debería permitir registrar las ventas de enchocolatados y bebidas, retornando un total.
 + Consulta de inventario: el sistema debería consultar en cualquier momento el inventario.
++ Consulta de ventas anteriores, es decir historial de ventas.
++ Consulta del carrito. Para poder visualizar las compras.
 
 En cuanto a los requerimientos específicos, podemos considerar lo siguiente:
 
 + Registrar ventas con precio correcto: el sistema debería permitir ingresar el precio de venta de cada producto al momento de registrar la venta, para que el sistema pueda calcular el total de ingresos generados por esa venta.
-
-La experiencia de usuario se podría mostrar de la siguiente manera.
-
-![UX](https://github.com/davi3004/Xocotepetl/blob/main/imgs/ux.png)
 
 ---
 
@@ -228,6 +226,7 @@ A continuación, se muestra un ejemplo del uso del sistema, este sistema puede s
 ![Captura 12](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Capturas/12.png)
 
 
-
+Puede visitar el archivo `.docx` a trvés del siguiente [enlace](https://github.com/davi3004/Xocotepetl/blob/main/V2.0/Actividad%20de%20recuperaci%C3%B3n.docx).
+También puede descargar el repositorio de github para tener el código fuente en local.
 
 
